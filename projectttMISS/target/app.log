@@ -1,0 +1,15 @@
+[INFO ] 2022-06-01 20:10:22.545 [main] AddRdvWindow - Displaying main window
+[INFO ] 2022-06-01 20:10:28.934 [AWT-EventQueue-0] AddRdvWindow - Displaying main window
+[INFO ] 2022-06-01 20:11:29.482 [main] AddRdvWindow - Displaying main window
+[INFO ] 2022-06-01 20:11:33.346 [AWT-EventQueue-0] AddRdvWindow - Displaying main window
+[INFO ] 2022-06-01 20:29:05.022 [main] AddRdvWindow - Displaying main window
+[INFO ] 2022-06-01 20:29:10.066 [AWT-EventQueue-0] AddRdvWindow - Displaying main window
+[INFO ] 2022-06-01 20:43:20.065 [main] AddRdvWindow - Displaying main window
+[INFO ] 2022-06-01 20:43:23.835 [AWT-EventQueue-0] AddRdvWindow - Displaying main window
+[INFO ] 2022-06-01 20:49:19.978 [main] AddRdvWindow - Displaying main window
+[INFO ] 2022-06-01 20:49:24.698 [AWT-EventQueue-0] AddRdvWindow - Displaying main window
+[INFO ] 2022-06-01 20:56:19.013 [main] AddRdvWindow - Displaying main window
+[INFO ] 2022-06-01 20:56:34.125 [AWT-EventQueue-0] AddRdvWindow - Displaying main window
+[DEBUG] 2022-06-01 20:59:01.768 [AWT-EventQueue-0] AddDocteurWindow - Created new personnes (id = 13)
+[DEBUG] 2022-06-01 20:59:01.820 [AWT-EventQueue-0] AddDocteurWindow - Created new docteur (id = 10)
+[DEBUG] 2022-06-01 20:59:01.831 [AWT-EventQueue-0] AddDocteurWindow - Edited docteur (id = 10)
